@@ -266,7 +266,6 @@ debugImplementation 'androidx.compose.ui:ui-test-manifest'
 ## 🚀 About Me
 Hi there! My name is Sneha Annigeri, I worked as a Senior Android Developer. Outside of my professional commitments, I actively pursue opportunities to expand my skill set. 
 I am deeply passionate about continuous learning and aim to leverage my spare time to enhance my expertise in Android development.
-If you have any questions or want to connect, feel free to reach out to me on :
 
 - [LinkedIn](https://www.linkedin.com/in/sneha-annigeri/)
 - [GitHub](https://github.com/SnehaAwate)
