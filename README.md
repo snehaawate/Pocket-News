@@ -51,8 +51,7 @@
 - **Notification** for alerting about latest news
 - **Coil** for efficient image loading
 
-
-
+<img width="716" alt="Screenshot " ![Pocket-News.JPG](..%2FPocket-News.JPG)"><br>
 - ## Feature implemented:
 - NewsApp
 - Instant search using Flow operators
@@ -262,7 +261,7 @@ debugImplementation 'androidx.compose.ui:ui-test-manifest'
             └── worker
                 └── FetchTopHeadlinesWorker.kt
 ```
-
+![PocketNews.png](..%2FPocketNews.png)
 ## Contribute to the project
 Feel free to improve or add features to the project. Create an issue or find the pending issue. All pull requests are welcome 😄
 
