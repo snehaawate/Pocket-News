@@ -262,8 +262,6 @@ debugImplementation 'androidx.compose.ui:ui-test-manifest'
                 └── FetchTopHeadlinesWorker.kt
 ```
 
-## Contribute to the project
-Feel free to improve or add features to the project. Create an issue or find the pending issue. All pull requests are welcome 😄
 
 ## 🚀 About Me
 Hi there! My name is Sneha Annigeri, I worked as a Senior Android Developer. Outside of my professional commitments, I actively pursue opportunities to expand my skill set. 
